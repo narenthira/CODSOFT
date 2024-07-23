@@ -3,8 +3,6 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-/* Basic styling for body and header */
 body {
     font-family: Arial, sans-serif;
     line-height: 1.6;
@@ -74,8 +72,8 @@ section p {
     line-height: 1.8;
 }
 .profile-image {
-    width: 150px; /* Adjust the width as needed */
-    height: 150px; /* Adjust the height as needed */
+    width: 150px; 
+    height: 150px; 
     overflow: hidden;
     margin: 0 auto 20px;
 }
